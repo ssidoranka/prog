@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6OJEzeIzL36nPNwOj/narYxDaMoi9q3FreqspPN8quBxl57mCX4EGUbdU++2O8CwF1mhebkV9xyqBC+a8xJlYQ==",
+  "dgSpecHash": "O1HlrwBkXWabLnuZaDrbLY0MdwuVDnhkb2eHqQCl3cgbfB181rrGUiA2DbfASV3JNGALiKE/QocYDIO6R0i6+A==",
   "success": true,
-  "projectFilePath": "F:\\proga\\lab2\\lab2\\lab2.csproj",
+  "projectFilePath": "F:\\proga\\prog\\lab2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\w68304\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
   ],
